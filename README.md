@@ -1,6 +1,6 @@
 # README
 
-Du texte et encore du texte, suivi d'une petite liste:
+Du texte et encore du texte et encore du texte, suivi d'une petite liste:
 
 -Item 1
 
